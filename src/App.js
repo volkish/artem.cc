@@ -36,7 +36,7 @@ const Header = ({children}) => <h3 className="my-4">{children}</h3>
 
 class App extends Component {
   render () {
-    const fullAccess = window.location.search.match(/full/)
+    const fullAccess = '#extended' === window.location.hash
 
     return (
       <div className="container pt-5">

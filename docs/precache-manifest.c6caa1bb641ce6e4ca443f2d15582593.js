@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/artem-ivanov.a8b249cf.jpg"
   },
   {
-    "revision": "e3d3bf0c8b5382defcd3d22f10c8e2ef",
+    "revision": "eb9e9c0a73a9b85e49bea71d9869ca2f",
     "url": "/index.html"
   }
 ];

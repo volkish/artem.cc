@@ -48,7 +48,7 @@ export const LONG_TERM_PROJECTS = [
     position: 'Head of backend development',
     description: 'This is a mobile application for moms. It has posts, chats, articles concerning maternity, pregnancy and childhood issues. It also has a service "Moms around me" which helps women find friends in the neighborhood. ',
     technologies: [
-      'PHP 7.2',
+      'PHP 8',
       'SphinxSearch',
       'Redis',
       'MySQL',

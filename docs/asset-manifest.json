@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.8cb58c1d.chunk.css",
-  "main.js": "/static/js/main.7498aebb.chunk.js",
-  "main.js.map": "/static/js/main.7498aebb.chunk.js.map",
+  "main.css": "/static/css/main.b7a7b6f7.chunk.css",
+  "main.js": "/static/js/main.c2c2cb2c.chunk.js",
+  "main.js.map": "/static/js/main.c2c2cb2c.chunk.js.map",
   "static/js/1.71e7028b.chunk.js": "/static/js/1.71e7028b.chunk.js",
   "static/js/1.71e7028b.chunk.js.map": "/static/js/1.71e7028b.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/artem-ivanov.jpg": "/static/media/artem-ivanov.a8b249cf.jpg",
-  "static/css/main.8cb58c1d.chunk.css.map": "/static/css/main.8cb58c1d.chunk.css.map",
+  "static/css/main.b7a7b6f7.chunk.css.map": "/static/css/main.b7a7b6f7.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.c6caa1bb641ce6e4ca443f2d15582593.js": "/precache-manifest.c6caa1bb641ce6e4ca443f2d15582593.js",
+  "precache-manifest.be17e0289fd2bf910e1e80f556d09851.js": "/precache-manifest.be17e0289fd2bf910e1e80f556d09851.js",
   "service-worker.js": "/service-worker.js"
 }

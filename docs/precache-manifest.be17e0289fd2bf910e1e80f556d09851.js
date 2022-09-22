@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7498aebbb15d41cc34d1",
-    "url": "/static/css/main.8cb58c1d.chunk.css"
+    "revision": "c2c2cb2c71410690d2de",
+    "url": "/static/css/main.b7a7b6f7.chunk.css"
   },
   {
-    "revision": "7498aebbb15d41cc34d1",
-    "url": "/static/js/main.7498aebb.chunk.js"
+    "revision": "c2c2cb2c71410690d2de",
+    "url": "/static/js/main.c2c2cb2c.chunk.js"
   },
   {
     "revision": "71e7028b64bf634cc7f5",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/artem-ivanov.a8b249cf.jpg"
   },
   {
-    "revision": "eb9e9c0a73a9b85e49bea71d9869ca2f",
+    "revision": "e3cacc81e4dbb86e1428698d5f890612",
     "url": "/index.html"
   }
 ];

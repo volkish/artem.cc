@@ -1,4 +1,17 @@
 export const INDIVIDUAL_PROJECTS = [
+   {
+    full: true,
+    title: 'Momsline.app',
+    period: ['07/2020', 'present'],
+    position: 'Co-Founder / React Native Developer',
+    description: 'Social network for women. <a href="https://apps.apple.com/tm/app/momsline-%D1%84%D0%BE%D1%80%D1%83%D0%BC-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B8%D1%85-%D0%BC%D0%B0%D0%BC/id1518791565">App store</a>, <a href="https://play.google.com/store/apps/details?id=ru.pregnancy.app.tracker.momsline">Google Play</a>',
+    technologies: [
+      'Expo 46',
+      'Laravel Framework 8',
+      'ElasticSearch',
+      'MySQL',
+    ]
+  },
   {
     full: true,
     title: 'Islam-Mama.com',
@@ -9,9 +22,8 @@ export const INDIVIDUAL_PROJECTS = [
       'PHP 7.2',
       'Laravel Framework 5.4',
       'ElasticSearch',
-      'Webpack',
       'MySQL',
-      'Redis as cache storage',
+      'Redis',
       'Webpack',
       'jQuery',
     ]
@@ -20,7 +32,7 @@ export const INDIVIDUAL_PROJECTS = [
     title: 'Lubernet.ru',
     period: ['02/2004', 'present'],
     position: 'Founder / Full-Stack Web Developer',
-    description: 'Started as a forum now one of the most popular independent local social media in my hometown. Helps people to solve urban problems, communicate with each other, and read the latest news. Currently, I’m developing mobile application using React Native.',
+    description: 'Started as a forum now one of the most popular independent local social media in my hometown. Helps people to solve urban problems, communicate with each other, and read the latest news.',
     technologies: [
       'PHP 5.6',
       'SphinxSearch',
@@ -47,7 +59,7 @@ export const LONG_TERM_PROJECTS = [
     title: 'Bemom.com',
     period: ['06/2013', '04/2017'],
     position: 'Lead Full Stack Developer',
-    description: 'Started as a forum now one of the most popular independent local social media in my hometown. Helps people to solve urban problems, communicate with each other, and read the latest news. Currently, I’m developing mobile application using React Native.',
+    description: 'Started as a forum now one of the most popular independent local social media in my hometown. Helps people to solve urban problems, communicate with each other, and read the latest news. Closed.',
   },
   {
     title: 'Baby',
